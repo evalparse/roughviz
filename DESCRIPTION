@@ -1,0 +1,13 @@
+Package: roughviz
+Type: Package
+Title: Interface to roughViz.js Graph Visualization Library
+Version: 0.1.0
+Author: Xiangyun Huang
+Maintainer: Xiangyun Huang <xiangyunfaith@outlook.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+Imports: 
+    htmlwidgets (>= 1.5.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
